@@ -1,7 +1,7 @@
-var parsePkcs12 = require("../../lib/credentials/parsePkcs12");
+var parsePkcs12 = require("../../lib/creds/parsePkcs12");
 
-var APNKey = require("../../lib/credentials/APNKey");
-var APNCertificate = require("../../lib/credentials/APNCertificate");
+var APNKey = require("../../lib/creds/APNKey");
+var APNCertificate = require("../../lib/creds/APNCertificate");
 
 var fs = require("fs");
 

@@ -1,4 +1,4 @@
-var resolve = require("../../lib/credentials/resolve");
+var resolve = require("../../lib/creds/resolve");
 var fs = require("fs");
 
 describe("resolve", function() {

@@ -1,4 +1,4 @@
-var loadCredentials = require("../../lib/credentials/load");
+var loadCredentials = require("../../lib/creds/load");
 var fs = require("fs");
 
 describe("loadCredentials", function() {

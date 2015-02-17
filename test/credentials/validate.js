@@ -1,5 +1,5 @@
 var sinon = require("sinon");
-var validateCredentials = require("../../lib/credentials/validate");
+var validateCredentials = require("../../lib/creds/validate");
 
 describe("validateCredentials", function() {
 	var credentials;
